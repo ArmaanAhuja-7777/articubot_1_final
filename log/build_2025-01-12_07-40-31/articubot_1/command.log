@@ -1,0 +1,6 @@
+Invoking command in '/home/armaan/dev_ws/build/articubot_1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/armaan/dev_ws/src/articubot_1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/armaan/dev_ws/install/articubot_1
+Invoked command in '/home/armaan/dev_ws/build/articubot_1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/armaan/dev_ws/src/articubot_1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/armaan/dev_ws/install/articubot_1
+Invoking command in '/home/armaan/dev_ws/build/articubot_1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/armaan/dev_ws/build/articubot_1 -- -j4 -l4
+Invoked command in '/home/armaan/dev_ws/build/articubot_1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/armaan/dev_ws/build/articubot_1 -- -j4 -l4
+Invoking command in '/home/armaan/dev_ws/build/articubot_1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/armaan/dev_ws/build/articubot_1
+Invoked command in '/home/armaan/dev_ws/build/articubot_1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/armaan/dev_ws/build/articubot_1

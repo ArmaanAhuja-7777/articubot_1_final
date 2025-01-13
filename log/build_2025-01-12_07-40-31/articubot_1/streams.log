@@ -1,0 +1,51 @@
+[0.020s] Invoking command in '/home/armaan/dev_ws/build/articubot_1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/armaan/dev_ws/src/articubot_1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/armaan/dev_ws/install/articubot_1
+[0.721s] -- The C compiler identification is GNU 11.4.0
+[1.132s] -- The CXX compiler identification is GNU 11.4.0
+[1.177s] -- Detecting C compiler ABI info
+[1.397s] -- Detecting C compiler ABI info - done
+[1.406s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.407s] -- Detecting C compile features
+[1.409s] -- Detecting C compile features - done
+[1.421s] -- Detecting CXX compiler ABI info
+[1.631s] -- Detecting CXX compiler ABI info - done
+[1.639s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.647s] -- Detecting CXX compile features
+[1.647s] -- Detecting CXX compile features - done
+[1.661s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.927s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.060s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.199s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.390s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.404s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.408s] -- Added test 'lint_cmake' to check CMake code style
+[2.413s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.422s] -- Added test 'xmllint' to check XML markup files
+[2.428s] -- Configuring done
+[2.434s] -- Generating done
+[2.438s] -- Build files have been written to: /home/armaan/dev_ws/build/articubot_1
+[2.446s] Invoked command in '/home/armaan/dev_ws/build/articubot_1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/armaan/dev_ws/src/articubot_1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/armaan/dev_ws/install/articubot_1
+[2.453s] Invoking command in '/home/armaan/dev_ws/build/articubot_1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/armaan/dev_ws/build/articubot_1 -- -j4 -l4
+[2.544s] Invoked command in '/home/armaan/dev_ws/build/articubot_1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/armaan/dev_ws/build/articubot_1 -- -j4 -l4
+[2.571s] Invoking command in '/home/armaan/dev_ws/build/articubot_1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/armaan/dev_ws/build/articubot_1
+[2.585s] -- Install configuration: ""
+[2.587s] -- Execute custom install script
+[2.588s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/config/empty.yaml
+[2.606s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/description/robot.urdf.xacro
+[2.624s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/launch/rsp.launch.py
+[2.641s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/worlds/empty.world
+[2.661s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/ament_index/resource_index/package_run_dependencies/articubot_1
+[2.682s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/ament_index/resource_index/parent_prefix_path/articubot_1
+[2.701s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/environment/ament_prefix_path.sh
+[2.720s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/environment/ament_prefix_path.dsv
+[2.742s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/environment/path.sh
+[2.762s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/environment/path.dsv
+[2.785s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/local_setup.bash
+[2.806s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/local_setup.sh
+[2.823s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/local_setup.zsh
+[2.838s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/local_setup.dsv
+[2.856s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/package.dsv
+[2.879s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/ament_index/resource_index/packages/articubot_1
+[2.895s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/cmake/articubot_1Config.cmake
+[2.913s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/cmake/articubot_1Config-version.cmake
+[2.931s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/package.xml
+[2.954s] Invoked command in '/home/armaan/dev_ws/build/articubot_1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/armaan/dev_ws/build/articubot_1
