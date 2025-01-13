@@ -1,7 +1,10 @@
 /home/armaan/dev_ws/install/articubot_1/share/articubot_1/config/empty.yaml
+/home/armaan/dev_ws/install/articubot_1/share/articubot_1/config/firstconfig.rviz
+/home/armaan/dev_ws/install/articubot_1/share/articubot_1/description/gazebo_control.xacro
 /home/armaan/dev_ws/install/articubot_1/share/articubot_1/description/inertial_macros.xacro
 /home/armaan/dev_ws/install/articubot_1/share/articubot_1/description/robot.urdf.xacro
 /home/armaan/dev_ws/install/articubot_1/share/articubot_1/description/robot_core.xacro
+/home/armaan/dev_ws/install/articubot_1/share/articubot_1/launch/launch_sim.launch.py
 /home/armaan/dev_ws/install/articubot_1/share/articubot_1/launch/rsp.launch.py
 /home/armaan/dev_ws/install/articubot_1/share/articubot_1/worlds/empty.world
 /home/armaan/dev_ws/install/articubot_1/share/ament_index/resource_index/package_run_dependencies/articubot_1

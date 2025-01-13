@@ -1,0 +1,29 @@
+[0.175s] Invoking command in '/home/armaan/dev_ws/build/articubot_1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/armaan/dev_ws/build/articubot_1 -- -j6 -l6
+[1.678s] Invoked command in '/home/armaan/dev_ws/build/articubot_1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/armaan/dev_ws/build/articubot_1 -- -j6 -l6
+[1.787s] Invoking command in '/home/armaan/dev_ws/build/articubot_1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/armaan/dev_ws/build/articubot_1
+[1.920s] -- Install configuration: ""
+[1.949s] -- Execute custom install script
+[1.974s] -- Up-to-date symlink: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/config/empty.yaml
+[1.979s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/config/firstconfig.rviz
+[2.094s] -- Up-to-date symlink: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/description/inertial_macros.xacro
+[2.094s] -- Up-to-date symlink: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/description/robot.urdf.xacro
+[2.095s] -- Up-to-date symlink: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/description/robot_core.xacro
+[2.101s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/launch/launch_sim.launch.py
+[2.173s] -- Up-to-date symlink: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/launch/rsp.launch.py
+[2.174s] -- Up-to-date symlink: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/worlds/empty.world
+[2.183s] -- Up-to-date symlink: /home/armaan/dev_ws/install/articubot_1/share/ament_index/resource_index/package_run_dependencies/articubot_1
+[2.187s] -- Up-to-date symlink: /home/armaan/dev_ws/install/articubot_1/share/ament_index/resource_index/parent_prefix_path/articubot_1
+[2.191s] -- Up-to-date symlink: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/environment/ament_prefix_path.sh
+[2.192s] -- Up-to-date symlink: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/environment/ament_prefix_path.dsv
+[2.206s] -- Up-to-date symlink: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/environment/path.sh
+[2.206s] -- Up-to-date symlink: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/environment/path.dsv
+[2.206s] -- Up-to-date symlink: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/local_setup.bash
+[2.212s] -- Up-to-date symlink: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/local_setup.sh
+[2.227s] -- Up-to-date symlink: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/local_setup.zsh
+[2.227s] -- Up-to-date symlink: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/local_setup.dsv
+[2.227s] -- Symlinking: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/package.dsv
+[2.379s] -- Up-to-date symlink: /home/armaan/dev_ws/install/articubot_1/share/ament_index/resource_index/packages/articubot_1
+[2.379s] -- Up-to-date symlink: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/cmake/articubot_1Config.cmake
+[2.379s] -- Up-to-date symlink: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/cmake/articubot_1Config-version.cmake
+[2.379s] -- Up-to-date symlink: /home/armaan/dev_ws/install/articubot_1/share/articubot_1/package.xml
+[2.399s] Invoked command in '/home/armaan/dev_ws/build/articubot_1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/armaan/dev_ws/build/articubot_1
